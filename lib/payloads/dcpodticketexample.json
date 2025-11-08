@@ -1,0 +1,314 @@
+{
+    "ticket": {
+        "requester": { "name": "Pierre Test", "email": "pierreklaviyo+api@gmail.com" },
+        "via": {
+            "channel": "web",
+            "source": {
+                "from": {},
+                "to": {},
+                "rel": null
+            }
+        },
+        "subject": "I have a compliance or legal issue",
+        "raw_subject": "I have a compliance or legal issue",
+        "description": "Our team caught this weird situation - \r\n\"the other day i was testing something out, and i put in my music co op email. i made sure that i unchecked the subscribe box, and i also didn't go farther than clicking the checkout button and trying to enter an address. shopify created a profile for me and subscribed me\"\r\n\r\nThis is their customer profile on Shopify: https://admin.shopify.com/store/marcellamodanyc/customers/6619209039951\r\n\r\nKlaviyo profile:  (showing as unsub because we unsubscribed)\r\nhttps://www.klaviyo.com/profile/01J0XYDW31YBFMPEEFBHZDCSS7\r\n\r\nIt is concerning to us that Shopify/Klaviyo automatically subscribing the person during checkout process. Is there an integration setting that I am missing?",
+        "priority": "high",
+        "status": "new",
+        "is_public": true,
+        "due_at": null,
+        "custom_fields": [
+            {
+                "id": 26980776087835,
+                "value": "Test ID"
+            },
+            {
+                "id": 26980756616347,
+                "value": "4030"
+            },
+            {
+                "id": 26980776315163,
+                "value": false
+            },
+            {
+                "id": 26980776357659,
+                "value": false
+            },
+            {
+                "id": 26980760620059,
+                "value": "https://www.example.com/"
+            },
+            {
+                "id": 26980788177947,
+                "value": "en-US"
+            },
+            {
+                "id": 26980788140187,
+                "value": "en-US"
+            },
+            {
+                "id": 26980788055323,
+                "value": "Test AE"
+            },
+            {
+                "id": 26980794018715,
+                "value": "Test CSM"
+            },
+            {
+                "id": 26980787273627,
+                "value": false
+            },
+            {
+                "id": 26980794655003,
+                "value": false
+            },
+            {
+                "id": 26980794511131,
+                "value": false
+            },
+            {
+                "id": 26980794411803,
+                "value": "en-US"
+            },
+            {
+                "id": 26980779899675,
+                "value": "Core Team"
+            },
+            {
+                "id": 26980761654939,
+                "value": false
+            },
+            {
+                "id": 26980763759259,
+                "value": "customer_type_standard"
+            },
+            {
+                "id": 26980763679643,
+                "value": "standard"
+            },
+            {
+                "id": 26980763208475,
+                "value": "United States"
+            },
+            {
+                "id": 26980762670747,
+                "value": false
+            },
+            {
+                "id": 26980762447259,
+                "value": false
+            },
+            {
+                "id": 26980762140827,
+                "value": false
+            },
+            {
+                "id": 26980764129947,
+                "value": "Pierre Test Account"
+            },
+            {
+                "id": 26980761607195,
+                "value": "US/Eastern"
+            },
+            {
+                "id": 26980757059355,
+                "value": "2000_plus_mrr_bucket"
+            },
+            {
+                "id": 26980749605019,
+                "value": "payment_type_stripe"
+            },
+            {
+                "id": 26980749264027,
+                "value": false
+            },
+            {
+                "id": 26980773672347,
+                "value": "Paid"
+            },
+            {
+                "id": 26980784324891,
+                "value": false
+            },
+            {
+                "id": 26980779035035,
+                "value": "us"
+            },
+            {
+                "id": 26980778959515,
+                "value": "americas"
+            },
+            {
+                "id": 26980784881691,
+                "value": "customer_select_compliance_legal"
+            },
+            {
+                "id": 26980773243163,
+                "value": "weekend_priority_c"
+            },
+            {
+                "id": 26980770372379,
+                "value": "2019-05-07"
+            },
+            {
+                "id": 26980764562971,
+                "value": false
+            },
+            {
+                "id": 26980764451355,
+                "value": false
+            }
+        ],
+        "satisfaction_rating": {
+            "score": "unoffered"
+        },
+        "sharing_agreement_ids": [],
+        "custom_status_id": 26980415336475,
+        "fields": [
+            {
+                "id": 26980776087835,
+                "value": "Test ID"
+            },
+            {
+                "id": 26980756616347,
+                "value": "4030"
+            },
+            {
+                "id": 26980776315163,
+                "value": false
+            },
+            {
+                "id": 26980776357659,
+                "value": false
+            },
+            {
+                "id": 26980760620059,
+                "value": "https://www.example.com/"
+            },
+            {
+                "id": 26980788177947,
+                "value": "en-US"
+            },
+            {
+                "id": 26980788140187,
+                "value": "en-US"
+            },
+            {
+                "id": 26980788055323,
+                "value": "Test AE"
+            },
+            {
+                "id": 26980794018715,
+                "value": "Test CSM"
+            },
+            {
+                "id": 26980787273627,
+                "value": false
+            },
+            {
+                "id": 26980794655003,
+                "value": false
+            },
+            {
+                "id": 26980794511131,
+                "value": false
+            },
+            {
+                "id": 26980794411803,
+                "value": "en-US"
+            },
+            {
+                "id": 26980779899675,
+                "value": "Core Team"
+            },
+            {
+                "id": 26980761654939,
+                "value": false
+            },
+            {
+                "id": 26980763759259,
+                "value": "customer_type_standard"
+            },
+            {
+                "id": 26980763679643,
+                "value": "standard"
+            },
+            {
+                "id": 26980763208475,
+                "value": "United States"
+            },
+            {
+                "id": 26980762670747,
+                "value": false
+            },
+            {
+                "id": 26980762447259,
+                "value": false
+            },
+            {
+                "id": 26980762140827,
+                "value": false
+            },
+            {
+                "id": 26980764129947,
+                "value": "Pierre Test Account"
+            },
+            {
+                "id": 26980761607195,
+                "value": "US/Eastern"
+            },
+            {
+                "id": 26980757059355,
+                "value": "2000_plus_mrr_bucket"
+            },
+            {
+                "id": 26980749605019,
+                "value": "payment_type_stripe"
+            },
+            {
+                "id": 26980749264027,
+                "value": false
+            },
+            {
+                "id": 26980773672347,
+                "value": "Paid"
+            },
+            {
+                "id": 26980784324891,
+                "value": false
+            },
+            {
+                "id": 26980779035035,
+                "value": "us"
+            },
+            {
+                "id": 26980778959515,
+                "value": "americas"
+            },
+            {
+                "id": 26980784881691,
+                "value": "customer_select_compliance_legal"
+            },
+            {
+                "id": 26980773243163,
+                "value": "weekend_priority_c"
+            },
+            {
+                "id": 26980770372379,
+                "value": "2019-05-07"
+            },
+            {
+                "id": 26980764562971,
+                "value": false
+            },
+            {
+                "id": 26980764451355,
+                "value": false
+            }
+        ],
+        "followup_ids": [],
+        "brand_id": 26980407666075,
+        "allow_channelback": false,
+        "allow_attachments": true,
+        "from_messaging_channel": false
+    }
+}

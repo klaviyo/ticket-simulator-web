@@ -1,0 +1,235 @@
+{
+  "Elite Partner": {
+    "name": "Elite Partner",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "elitetest",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "Elite",
+      "agency_status": "Active",
+      "is_agency_partner": "True",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre elite",
+      "email": "pierreklaviyo+elite@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US",
+      "services_tier": "Elite"
+    }
+  },
+  "Enterprise": {
+    "name": "Enterprise",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "enterprisetest",
+      "account_name": "null",
+      "website_url": "https://www.example.com/",
+      "customer_since": "null",
+      "company_locale": "en-US",
+      "company_region": "en_US",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "enterprise",
+      "experts_tier": "null",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "country": "null",
+      "first_name": "pierre enterprise",
+      "last_name": "null",
+      "email": "pierreklaviyo+enterprise@gmail.com",
+      "user_role_label": "Owner",
+      "portfolio_acount": "null",
+      "is_account_family": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US",
+      "pricing_pilot": "True",
+      "pricing_pilot_status": "null",
+      "csm_name": "Test Value",
+      "csm_team": "Test Value",
+      "account_executive": "Test Value",
+      "psm_agent_name": "Test Value",
+      "agency_support_status": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "agency_name": "Test Value",
+      "is_free_support_expired": "null",
+      "prevent_staffside_impersonation": "False",
+      "is_consent_enabled": "True"
+    }
+  },
+  "Gold Partner": {
+    "name": "Gold Partner",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "goldpartner",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "Gold",
+      "agency_status": "Active",
+      "is_agency_partner": "True",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre gold",
+      "email": "pierreklaviyo+gold@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Manually Billed": {
+    "name": "Manually Billed",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "standard-manually billed",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "billing_type": "payment_type_manual",
+      "region": "Americas",
+      "first_name": "pierre manually billed",
+      "email": "pierreklaviyo+manuallybilled@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Platinum Partner": {
+    "name": "Platinum Partner",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "platinumpartner",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "Platinum",
+      "agency_status": "Active",
+      "is_agency_partner": "True",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre platinum",
+      "email": "pierreklaviyo+platinum@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Portfolio Account": {
+    "name": "Portfolio Account",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "standard-portfolio",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre portfolio",
+      "email": "pierreklaviyo+portfolio@gmail.com",
+      "portfolio_acount": "True",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Professional": {
+    "name": "Professional",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "professionaltest",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "professional",
+      "experts_tier": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre professional",
+      "email": "pierreklaviyo+professional@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US",
+      "prevent_staffside_impersonation": "True",
+      "is_consent_enabled": "False",
+      "user_role_label": "Admin"
+    }
+  },
+  "Silver Partner": {
+    "name": "Silver Partner",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "silverpartner",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "Silver",
+      "agency_status": "Active",
+      "is_agency_partner": "True",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre silver",
+      "email": "pierreklaviyo+silver@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Standard < 2000": {
+    "name": "Standard < 2000",
+    "metaFields": {
+      "total_mrr": "1999",
+      "company_id": "standard-1999mrr",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre 1999mrr",
+      "email": "pierreklaviyo+1999mrr@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Standard > 1999": {
+    "name": "Standard > 1999",
+    "metaFields": {
+      "total_mrr": "2000",
+      "company_id": "standard-2000mrr",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre 2000mrr",
+      "email": "pierreklaviyo+2000mrr@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  },
+  "Standard CNX": {
+    "name": "Standard CNX",
+    "metaFields": {
+      "total_mrr": "50",
+      "company_id": "standard-cnx",
+      "has_klaviyo_one_support": "False",
+      "service_plan": "standard",
+      "experts_tier": "null",
+      "agency_status": "null",
+      "is_agency_partner": "null",
+      "billing_type": "payment_type_stripe",
+      "region": "Americas",
+      "first_name": "pierre cnx",
+      "email": "pierreklaviyo+cnx@gmail.com",
+      "portfolio_acount": "null",
+      "has_paid_features": "True",
+      "company_language": "en-US"
+    }
+  }
+}

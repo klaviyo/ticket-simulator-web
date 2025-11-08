@@ -1,0 +1,322 @@
+{
+    "ticket": {
+        "requester": { "name": "Pierre Test", "email": "pierreklaviyo+api@gmail.com" },
+        "via": {
+            "channel": "web",
+            "source": {
+                "from": {},
+                "to": {},
+                "rel": null
+            }
+        },
+        "subject": "I have a question as a gold parter",
+        "raw_subject": "I have a question as a gold partner",
+        "description": "Gold Partner Test Email",
+        "priority": "normal",
+        "status": "new",
+        "is_public": true,
+        "due_at": null,
+        "custom_fields": [
+            {
+                "id": 26980776087835,
+                "value": "Test ID"
+            },
+            {
+                "id": 26980756616347,
+                "value": "2660"
+            },
+            {
+                "id": 26980770008091,
+                "value": "partner_master_gold"
+            },
+            {
+                "id": 26980776315163,
+                "value": false
+            },
+            {
+                "id": 26980776357659,
+                "value": false
+            },
+            {
+                "id": 26980760620059,
+                "value": "http://www.example.com"
+            },
+            {
+                "id": 26980788177947,
+                "value": "en-US"
+            },
+            {
+                "id": 26980788140187,
+                "value": "en-US"
+            },
+            {
+                "id": 26980787273627,
+                "value": true
+            },
+            {
+                "id": 26980793474971,
+                "value": "agency_status_active"
+            },
+            {
+                "id": 26980800877595,
+                "value": "partner_advisor_gold"
+            },
+            {
+                "id": 26980794655003,
+                "value": false
+            },
+            {
+                "id": 26980794511131,
+                "value": false
+            },
+            {
+                "id": 26980794411803,
+                "value": "en-US"
+            },
+            {
+                "id": 26980793574811,
+                "value": "Pierre's Test Agency"
+            },
+            {
+                "id": 26980761654939,
+                "value": false
+            },
+            {
+                "id": 26980763759259,
+                "value": "customer_type_standard"
+            },
+            {
+                "id": 26980763679643,
+                "value": "standard"
+            },
+            {
+                "id": 26980763208475,
+                "value": "United States"
+            },
+            {
+                "id": 26980762670747,
+                "value": false
+            },
+            {
+                "id": 26980762447259,
+                "value": false
+            },
+            {
+                "id": 26980762140827,
+                "value": false
+            },
+            {
+                "id": 26980764129947,
+                "value": "Pierre Test Company"
+            },
+            {
+                "id": 26980761607195,
+                "value": "US/Eastern"
+            },
+            {
+                "id": 26980757059355,
+                "value": "2000_plus_mrr_bucket"
+            },
+            {
+                "id": 26980749605019,
+                "value": "payment_type_stripe"
+            },
+            {
+                "id": 26980749264027,
+                "value": false
+            },
+            {
+                "id": 26980773672347,
+                "value": "Maintain"
+            },
+            {
+                "id": 26980784324891,
+                "value": false
+            },
+            {
+                "id": 26980779035035,
+                "value": "us"
+            },
+            {
+                "id": 26980778959515,
+                "value": "americas"
+            },
+            {
+                "id": 26980784881691,
+                "value": "customer_select_flows"
+            },
+            {
+                "id": 26980773243163,
+                "value": "weekend_priority_c"
+            },
+            {
+                "id": 26980770372379,
+                "value": "2019-11-28"
+            },
+            {
+                "id": 26980764562971,
+                "value": false
+            },
+            {
+                "id": 26980764451355,
+                "value": false
+            }
+        ],
+        "satisfaction_rating": {
+            "score": "unoffered"
+        },
+        "sharing_agreement_ids": [],
+        "custom_status_id": 26980415336475,
+        "fields": [
+            {
+                "id": 26980776087835,
+                "value": "Test ID"
+            },
+            {
+                "id": 26980756616347,
+                "value": "2660"
+            },
+            {
+                "id": 26980770008091,
+                "value": "partner_master_gold"
+            },
+            {
+                "id": 26980776315163,
+                "value": false
+            },
+            {
+                "id": 26980776357659,
+                "value": false
+            },
+            {
+                "id": 26980760620059,
+                "value": "http://www.example.com"
+            },
+            {
+                "id": 26980788177947,
+                "value": "en-US"
+            },
+            {
+                "id": 26980788140187,
+                "value": "en-US"
+            },
+            {
+                "id": 26980787273627,
+                "value": true
+            },
+            {
+                "id": 26980793474971,
+                "value": "agency_status_active"
+            },
+            {
+                "id": 26980800877595,
+                "value": "partner_advisor_gold"
+            },
+            {
+                "id": 26980794655003,
+                "value": false
+            },
+            {
+                "id": 26980794511131,
+                "value": false
+            },
+            {
+                "id": 26980794411803,
+                "value": "en-US"
+            },
+            {
+                "id": 26980793574811,
+                "value": "Pierre's Test Agency"
+            },
+            {
+                "id": 26980761654939,
+                "value": false
+            },
+            {
+                "id": 26980763759259,
+                "value": "customer_type_standard"
+            },
+            {
+                "id": 26980763679643,
+                "value": "standard"
+            },
+            {
+                "id": 26980763208475,
+                "value": "United States"
+            },
+            {
+                "id": 26980762670747,
+                "value": false
+            },
+            {
+                "id": 26980762447259,
+                "value": false
+            },
+            {
+                "id": 26980762140827,
+                "value": false
+            },
+            {
+                "id": 26980764129947,
+                "value": "Pierre Test Company"
+            },
+            {
+                "id": 26980761607195,
+                "value": "US/Eastern"
+            },
+            {
+                "id": 26980757059355,
+                "value": "2000_plus_mrr_bucket"
+            },
+            {
+                "id": 26980749605019,
+                "value": "payment_type_stripe"
+            },
+            {
+                "id": 26980749264027,
+                "value": false
+            },
+            {
+                "id": 26980773672347,
+                "value": "Maintain"
+            },
+            {
+                "id": 26980784324891,
+                "value": false
+            },
+            {
+                "id": 26980779035035,
+                "value": "us"
+            },
+            {
+                "id": 26980778959515,
+                "value": "americas"
+            },
+            {
+                "id": 26980784881691,
+                "value": "customer_select_flows"
+            },
+            {
+                "id": 26980773243163,
+                "value": "weekend_priority_c"
+            },
+            {
+                "id": 26980770372379,
+                "value": "2019-11-28"
+            },
+            {
+                "id": 26980764562971,
+                "value": false
+            },
+            {
+                "id": 26980764451355,
+                "value": false
+            }
+        ],
+        "followup_ids": [],
+        "brand_id": 26980407666075,
+        "allow_channelback": false,
+        "allow_attachments": true,
+        "from_messaging_channel": false
+    }
+}
